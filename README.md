@@ -1,18 +1,18 @@
-<h2 align="left">Hello. My name is Guilherme!</h2>
+<h2 align="left">Olá, meu nome é Guilherme!</h2>
 
 ###
 
-- 💻 Student of Computer Science
+- 💻 Estudante de ciência da computação
   
-- 📍 I'm from São Vicente - SP  
+- 📍 Sou de São Vicente - SP  
 
 - 📫 Email: guilhermessimoescontato@gmail.com
 
-## My Skills  
+## Minhas habilidades  
 
 ###
 
-<h4 align="left">Stacks that I have knowledge</h4>
+<h4 align="left">Stacks que possuo conhecimento </h4>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<h4 align="left">Stacks that I'm learning</h4>
+<h4 align="left">Stacks que estou aprendendo</h4>
 
 ###
 
@@ -42,7 +42,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guissimoess&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Contact me 
+## Me contate
 
 ###
 
