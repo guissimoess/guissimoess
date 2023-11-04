@@ -4,7 +4,7 @@
 
 - 💻 Estudante de ciência da computação
   
-- 📍 Sou de São Vicente - SP  
+- 📍 São Vicente - SP  
 
 - 📫 Email: guilhermessimoescontato@gmail.com
 
