@@ -1,6 +1,6 @@
 # Olá, meu nome é Guilherme! 
 
-- 💻 Estudante de Ciência da Computação - 4° Semestre
+- 💻 Estudante de Ciência da Computação - 5° Semestre
 
 - ⚔️ Backend Developer
 
