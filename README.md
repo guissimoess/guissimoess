@@ -19,17 +19,6 @@
   <img alt=Postgre src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" img>
 </div>
 
-## Tecnologias que tenho interesse
-
-<div>
-<img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" img>
-<img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" img>
-<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" img>
-<img alt="Elixir" src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" img>
-<img alt="Arch" src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" img>
-</div>
-<hr height="1">
-
 ## Github Stats 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guissimoess&theme=dark&layout=compact)
