@@ -8,9 +8,6 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=blue" img>
   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" img>
   <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" img>
-  <img alt="Intellij" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" img>
-  <img alt="GitHub" src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github" img>
-  <img alt="Git" src="https://img.shields.io/badge/git-100000?style=for-the-badge&logo=git" img>
   <img alt="Mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" img>
   <img alt=Postgre src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" img>
 </div>
