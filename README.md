@@ -1,6 +1,6 @@
 # Olá, meu nome é Guilherme! 
 
-- ⚔️ Backend Developer
+- ⚔️ DevOps
 
 ## Tecnologias  
 
