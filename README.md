@@ -1,12 +1,12 @@
 # 👋 Olá, meu nome é Guilherme!
 
-### ⚔️ DevOps Engineer | ☁️ Cloud | 🏗️ Infrastructure
+### ⚔️ DevOps Analyst | ☁️ Cloud | 🏗️ Infrastructure
 
-Atuo como **DevOps Engineer**, trabalhando principalmente com **cloud, infraestrutura como código, CI/CD, containers e automação**.
+Atuo como **Analista DevOps**, trabalhando com **cloud, infraestrutura como código, CI/CD, containers e automação**.
 
-Tenho experiência trabalhando com ambientes **AWS**, provisionamento e gerenciamento de infraestrutura utilizando **Terraform e Terragrunt**, além da construção e manutenção de pipelines utilizando **Jenkins e Azure DevOps**.
+Tenho experiência com ambientes **AWS**, provisionamento e gerenciamento de infraestrutura utilizando **Terraform e Terragrunt**, além da construção e manutenção de pipelines utilizando **Jenkins e Azure DevOps**.
 
-Também trabalho com **Docker e Kubernetes**, além de ferramentas e tecnologias que fazem parte do ecossistema de desenvolvimento e infraestrutura.
+Também trabalho com **Docker e Kubernetes**, além de possuir experiência com desenvolvimento backend utilizando **Java e Spring**.
 
 ---
 
@@ -54,13 +54,6 @@ Também trabalho com **Docker e Kubernetes**, além de ferramentas e tecnologias
 
 </div>
 
-```text
-Infrastructure as Code
-├── Terraform
-├── Terragrunt
-└── AWS
-```
-
 ---
 
 ## ☁️ AWS
@@ -84,7 +77,6 @@ Experiência com diferentes serviços do ecossistema AWS, incluindo:
 <div align="left">
 
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
 
 </div>
@@ -93,7 +85,7 @@ Experiência com diferentes serviços do ecossistema AWS, incluindo:
 
 ## ☕ Development
 
-Apesar do foco em **DevOps e infraestrutura**, também possuo experiência com desenvolvimento backend utilizando Java.
+Além da atuação em **DevOps e infraestrutura**, possuo experiência com desenvolvimento backend utilizando Java.
 
 <div align="left">
 
@@ -102,71 +94,6 @@ Apesar do foco em **DevOps e infraestrutura**, também possuo experiência com d
 <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-
-</div>
-
----
-
-## 🛠️ Technologies
-
-```text
-                    DEVOPS
-                       │
-        ┌──────────────┼──────────────┐
-        │              │              │
-      CLOUD           CI/CD           IaC
-        │              │              │
-       AWS         Jenkins        Terraform
-                    Azure DevOps    Terragrunt
-        │
-        └──────────────┐
-                       │
-                  CONTAINERS
-                       │
-                ┌──────┴──────┐
-                │             │
-              Docker      Kubernetes
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guissimoes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guissimoes&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=guissimoes&theme=tokyonight"/>
-
-</div>
-
----
-
-## 📫 Connect with me
-
-<div align="left">
-
-<a href="mailto:guilhermessimoescontato@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/guissimoes/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://discord.com/users/840008112608903188">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</a>
 
 </div>
 
